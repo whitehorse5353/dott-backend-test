@@ -1,0 +1,23 @@
+{
+  "name": "dott-backend-test",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node build/index.js",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whitehorse5353/dott-backend-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whitehorse5353/dott-backend-test/issues"
+  },
+  "homepage": "https://github.com/whitehorse5353/dott-backend-test#readme",
+  "devDependencies": {
+    "@types/node": "^12.12.6"
+  }
+}
